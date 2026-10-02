@@ -88,17 +88,34 @@ waypoints     Optional list of longitude/latitude objects for the illustrated
               route. Omit to connect destinations directly. Not actual
               turn-by-turn rail directions.
 
-PHOTO OBJECTS (hotel.photo / sceneImage)
+PHOTO OBJECTS (hotel.photo / sceneImage / activities[].photo / restaurants[].photo)
 src           Required when providing a photo. An https:// image URL, or a
               file already in the site's assets/ folder.
               Example: "assets/hotel-monterey.webp".
               Loading JSON does not copy photo files.
 alt           Optional image description.
 source        Optional credited webpage. The hotel stamp opens its drawer.
-credit        Optional photographer/provider attribution.
+credit        Optional photographer/provider attribution, shown in drawers.
+verifiedOn    Optional YYYY-MM-DD source-check date.
+rights        Optional rights note. Attribution is not publication permission.
 panel         Optional 0–3, only for the existing four-panel scene image.
               Omit for a normal single photograph.
 External images need internet access and may be blocked by their provider.
+They are linked directly, not copied into this project. Failed photos hide
+without preventing access to the venue's website. Copyright stays with the
+provider: obtain permission or replace with licensed images before public use.
+Activity/restaurant photos do not replace the anime destination illustrations.
+The experiences stamp uses the first activity photo at the current stop,
+falling back to restaurant photos. If a photo fails, the next is tried.
+Only after all choices fail (or none exist) is the illustrated icon shown.
+
+VENUE LINKS AND NOTICES
+url           Venue website, official tourism page or existing booking link.
+websiteLabel  Optional qualifier, e.g. "Area guide — branch undecided".
+links         Optional [{label, url}] for alternatives or reservation pages.
+notice        Optional {text, url, checkedOn}; shown as a source-linked warning.
+Research does not turn tentative venues into bookings or move planned dates.
+mediaRevision Internal media-refresh version; omit for a custom itinerary.
 
 COST AND DATE RULES
 Each entry uses costCurrency, falling back to trip.currency.
@@ -112,6 +129,15 @@ Use null for unknown costs, 0 for confirmed free/included items.
 Avoid counting a meal twice if it is included in the hotel price.
 Unpriced items are excluded from the total and counted separately.
 Stops must not overlap; checkout and next arrival on the same day is OK.
+
+MAP LANDMARKS
+Original 3D symbols are attached to Tokyo (Tokyo Tower), Kyoto (stylized
+pagoda), Nara (deer), Kobe (beef) and Takamatsu (Sanuki udon cup).
+Tokyo Tower, temple and beef sit above their city; the deer and noodles
+sit below. The deer turns slightly left. Each appears once per city and
+follows the map camera; these are decorative city symbols, not
+precise venue locations. Imported trips only show symbols for included cities.
+The GLBs are embedded in assets/*-model.js and work offline.
 
 VEHICLE CHANGES
 The train and bus models switch at stops where the next leg uses a different

@@ -44,25 +44,62 @@
         {
           "name": "Marunouchi Naka-Dori illuminations and Christmas market",
           "date": "2026-12-17",
-          "cost": null
+          "cost": null,
+          "url": "https://www.marunouchi.com/en/lp/tokyo-afterdark/",
+          "photo": {
+            "src": "https://www.marunouchi.com/lp/tokyo-afterdark/img/c01-img01.webp",
+            "source": "https://www.marunouchi.com/en/lp/tokyo-afterdark/",
+            "credit": "Marunouchi.com",
+            "alt": "Marunouchi evening illuminations",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "websiteLabel": "Area guide — seasonal dates to confirm"
         },
         {
           "name": "Tokyo Tower",
           "date": "2026-12-17",
-          "cost": null
+          "cost": null,
+          "url": "https://en.tokyotower.co.jp/",
+          "photo": {
+            "src": "https://www.gotokyo.org/en/spot/4/images/main.webp",
+            "source": "https://www.gotokyo.org/en/spot/4/index.html",
+            "credit": "GO TOKYO / Tokyo Convention & Visitors Bureau",
+            "alt": "Tokyo Tower",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "restaurants": [
         {
           "name": "Tokyo Ramen Street",
           "date": "2026-12-17",
-          "cost": null
+          "cost": null,
+          "url": "https://www.tokyoeki-1bangai.co.jp/street/ramen/",
+          "photo": {
+            "src": "https://www.tokyoeki-1bangai.co.jp/street/ramen/assets/images/ramen/slider_shop1.png",
+            "source": "https://www.tokyoeki-1bangai.co.jp/street/ramen/",
+            "credit": "Tokyo Station First Avenue",
+            "alt": "Ramen served at Tokyo Ramen Street",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Tsukiji Outer Market — early breakfast",
           "date": "2026-12-18",
           "cost": null,
-          "notes": "Breakfast before 08:30."
+          "notes": "Breakfast before 08:30.",
+          "url": "https://www.tsukiji.or.jp/english/",
+          "photo": {
+            "src": "https://www.tsukiji.or.jp/assets/images/english/top/slide06.jpg",
+            "source": "https://www.tsukiji.or.jp/english/",
+            "credit": "Tsukiji Outer Market",
+            "alt": "Tsukiji Outer Market",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "notes": "",
@@ -169,7 +206,14 @@
         "cost": 4116,
         "address": "",
         "url": "https://www3.apahotel.com/hotel/syutoken/tokyo/higashishinjuku-kabukichotower/",
-        "photo": null,
+        "photo": {
+          "src": "https://www3.apahotel.com/image/679appearance7.jpg",
+          "source": "https://www3.apahotel.com/hotel/syutoken/tokyo/higashishinjuku-kabukichotower/",
+          "credit": "APA Hotels & Resorts",
+          "alt": "APA Hotel Higashi Shinjuku Kabukicho Tower exterior",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "SEK",
         "paymentStatus": "paid",
         "checkIn": "15:00",
@@ -183,22 +227,58 @@
         {
           "name": "Shinjuku Gyoen",
           "date": "2026-12-19",
-          "cost": null
+          "cost": null,
+          "url": "https://fng.or.jp/shinjuku/en/",
+          "photo": {
+            "src": "https://fng.or.jp/shinjuku/wp-content/themes/shinjuku-gyoen/img/top_slider01.jpg",
+            "source": "https://fng.or.jp/shinjuku/en/",
+            "credit": "National Gardens Association",
+            "alt": "Shinjuku Gyoen National Garden",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Meiji Jingu",
           "date": "2026-12-19",
-          "cost": null
+          "cost": null,
+          "url": "https://www.meijijingu.or.jp/en/",
+          "photo": {
+            "src": "https://www.meijijingu.or.jp/en/about/images/about_img01.jpg",
+            "source": "https://www.meijijingu.or.jp/en/about/",
+            "credit": "Meiji Jingu",
+            "alt": "Meiji Jingu shrine",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Harajuku Takeshita Street",
           "date": "2026-12-19",
-          "cost": null
+          "cost": null,
+          "url": "https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/index.html",
+          "photo": {
+            "src": "https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/images/area031_1008_30.webp",
+            "source": "https://www.gotokyo.org/en/destinations/western-tokyo/harajuku/index.html",
+            "credit": "GO TOKYO / Tokyo Convention & Visitors Bureau",
+            "alt": "Harajuku and Takeshita Street area",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Shinjuku streets and Kabukicho",
           "date": "2026-12-19",
-          "cost": null
+          "cost": null,
+          "url": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+          "photo": {
+            "src": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/images/269_0211_1.webp",
+            "source": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+            "credit": "GO TOKYO / Tokyo Convention & Visitors Bureau",
+            "alt": "Shinjuku district",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Mount Fuji / Kawaguchiko one-day bus tour",
@@ -210,17 +290,43 @@
           "paymentStatus": "paid",
           "url": "https://www.kkday.com/zh-hk/product/35701-mt-fuji-1-day-bus-tour-japan",
           "meetingPoint": "Shinjuku i-Land Tower, in front of LOVE sign",
-          "notes": "08:20 meeting at LOVE sign; 18:10 arrival at Shinjuku Station."
+          "notes": "08:20 meeting at LOVE sign; 18:10 arrival at Shinjuku Station.",
+          "photo": {
+            "src": "https://res-2.cloudinary.com/jnto/image/upload/w_1000,h_667,c_fill,f_auto,fl_lossy,q_auto/v1516050445/yamanashi/Yamanashi910_1",
+            "source": "https://www.japan.travel/en/spot/1329/",
+            "credit": "Japan National Tourism Organization",
+            "alt": "Lake Kawaguchi and Mount Fuji; destination reference, not a tour photograph",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Senso-ji and Kaminarimon",
           "date": "2026-12-21",
-          "cost": null
+          "cost": null,
+          "url": "https://www.senso-ji.jp/english/",
+          "photo": {
+            "src": "https://www.senso-ji.jp/images_en/main_img_smf01.jpg",
+            "source": "https://www.senso-ji.jp/english/",
+            "credit": "Senso-ji",
+            "alt": "Senso-ji temple",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Ueno Ameyoko Market",
           "date": "2026-12-21",
-          "cost": null
+          "cost": null,
+          "url": "https://www.ameyoko.net/",
+          "photo": {
+            "src": "https://www.ameyoko.net/shared/img/index/key.jpg",
+            "source": "https://www.ameyoko.net/",
+            "credit": "Ameyoko Shopping Street",
+            "alt": "Ameyoko shopping street",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Head to Narita Airport (NRT)",
@@ -242,15 +348,39 @@
             "reference": "GTTUR9T36P",
             "name": "Rebecca Hui"
           },
-          "url": "https://tabelog.com/tw/tokyo/A1304/A130401/13302257/party/290805151/",
-          "notes": "120-minute buffet; over 150 seafood, yakiniku, Japanese, Western and Chinese dishes including king crab; unlimited alcoholic drinks. ¥13,000 per person; group size not supplied."
+          "url": "https://ginzahappo-shinjuku.owst.jp/",
+          "notes": "120-minute buffet; over 150 seafood, yakiniku, Japanese, Western and Chinese dishes including king crab; unlimited alcoholic drinks. ¥13,000 per person; group size not supplied.",
+          "photo": {
+            "src": "https://cdn.r-corona.jp/prd.rb.r-corona.jp/assets/site_files/rpkn97fu/48983445/soh7.jpg",
+            "source": "https://ginzahappo-shinjuku.owst.jp/",
+            "credit": "Ginza Happo Shinjuku",
+            "alt": "Ginza Happo Shinjuku buffet",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "links": [
+            {
+              "label": "Original reservation / menu page",
+              "url": "https://tabelog.com/tw/tokyo/A1304/A130401/13302257/party/290805151/"
+            }
+          ]
         },
         {
           "name": "Banban Shinjuku Main Store or Omoide Yokocho izakaya",
           "date": "2026-12-20",
           "cost": null,
           "reservationStatus": "tentative",
-          "notes": "Choose one; alternative dinner ideas, not two bookings."
+          "notes": "Choose one; alternative dinner ideas, not two bookings.",
+          "url": "https://shinjuku-omoide.com/",
+          "websiteLabel": "Omoide Yokocho — one dinner option",
+          "photo": {
+            "src": "https://shinjuku-omoide.com/wordpress/jp/wp-content/uploads/2021/04/top_slider_9.jpg",
+            "source": "https://shinjuku-omoide.com/",
+            "credit": "Shinjuku Omoide Yokocho",
+            "alt": "Omoide Yokocho; alternative to Banban",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "notes": "",
@@ -286,10 +416,12 @@
         "address": "",
         "url": "https://www3.apahotel.com/hotel/kansai/osaka/osaka-namba-ekimae-tower/",
         "photo": {
-          "src": "assets/hotel-osaka.jpg",
-          "alt": "APA Osaka Namba Ekimae Tower",
-          "source": "https://www.kkday.com/en/hotel/product/301416",
-          "credit": "KKday"
+          "src": "https://www3.apahotel.com/image/978hotelgaikan_1113.jpg",
+          "source": "https://www3.apahotel.com/hotel/kansai/osaka/osaka-namba-ekimae-tower/",
+          "credit": "APA Hotels & Resorts",
+          "alt": "APA Hotel & Resort Osaka Namba Ekimae Tower exterior",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
         },
         "costCurrency": "JPY",
         "paymentStatus": "paid",
@@ -336,7 +468,14 @@
         "cost": 46737,
         "address": "",
         "url": "https://dormy-hotels.com/dormyinn/hotels/nono_kyoto/",
-        "photo": null,
+        "photo": {
+          "src": "https://img.dormy-hotels.com/dms-cp.com/public/media/cms/5931695289531/slide01.jpg?w=1920&fit=inside&ext=webp&quality=50",
+          "source": "https://dormy-hotels.com/dormyinn/hotels/nono_kyoto/",
+          "credit": "Dormy Hotels",
+          "alt": "Onyado Nono Kyoto Shichijo hotel",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "JPY",
         "paymentStatus": "paid",
         "checkIn": "15:00",
@@ -355,7 +494,16 @@
         {
           "name": "Kitano Tenmangu — Shimai Tenjin market (終天神市)",
           "date": "2026-12-25",
-          "cost": null
+          "cost": null,
+          "url": "https://kitanotenmangu.or.jp/en/",
+          "photo": {
+            "src": "https://kitanotenmangu.or.jp/wp-content/uploads/2022/10/access.jpg",
+            "source": "https://kitanotenmangu.or.jp/en/",
+            "credit": "Kitano Tenmangu",
+            "alt": "Kitano Tenmangu shrine; not a photograph of the December market",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "restaurants": [
@@ -404,7 +552,14 @@
         "cost": 6415,
         "address": "",
         "url": "https://www.yuzanguesthouse.com/",
-        "photo": null,
+        "photo": {
+          "src": "https://static.wixstatic.com/media/d26585_d0b6767bd349427f80b62c7dc889338f~mv2_d_5760_3840_s_4_2.jpg/v1/crop/x_0,y_1047,w_5760,h_2340/fill/w_980,h_398,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/1.jpg",
+          "source": "https://www.yuzanguesthouse.com/",
+          "credit": "Yuzan Guesthouse",
+          "alt": "Yuzan Guesthouse exterior",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "JPY",
         "paymentStatus": "paid",
         "checkIn": "15:00",
@@ -445,7 +600,14 @@
         "cost": 11760,
         "address": "",
         "url": "https://brenzahotel.jp/home-english",
-        "photo": null,
+        "photo": {
+          "src": "https://images.squarespace-cdn.com/content/v1/6841405bf2cfc93fed90e2da/7d788c76-6a50-4365-a4eb-4dd76fac0dc6/front.jpg?format=2550w",
+          "source": "https://brenzahotel.jp/home-english",
+          "credit": "BRENZA HOTEL",
+          "alt": "BRENZA HOTEL exterior",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "JPY",
         "paymentStatus": "paid",
         "checkIn": "15:00",
@@ -461,14 +623,31 @@
           "name": "Ishidaya Sannomiya Main Store (石田屋 三宮本店)",
           "date": "2026-12-27",
           "cost": null,
-          "url": "https://tabelog.com/hyogo/A2801/A280101/28003841/",
-          "notes": "Dinner."
+          "url": "https://akr0641321725.owst.jp/",
+          "notes": "Dinner.",
+          "photo": {
+            "src": "https://cdn.r-corona.jp/prd.rb.r-corona.jp/assets/site_files/90xktqi3/69081479/ikqy.jpg",
+            "source": "https://akr0641321725.owst.jp/",
+            "credit": "Sumiyakiniku Ishidaya Honten",
+            "alt": "Ishidaya Honten restaurant",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Kobe Beef Steak Restaurant Mouriya Sannomiya",
           "date": "2026-12-28",
           "cost": null,
-          "notes": "Lunch."
+          "notes": "Lunch.",
+          "url": "https://www.mouriya.co.jp/en/sannomiya",
+          "photo": {
+            "src": "https://www.mouriya.co.jp/wp/wp-content/themes/mouriya/img/sannomiya_photo1.webp",
+            "source": "https://www.mouriya.co.jp/en/sannomiya",
+            "credit": "Mouriya",
+            "alt": "Mouriya Sannomiya restaurant",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "notes": "",
@@ -500,7 +679,14 @@
         "cost": null,
         "address": "",
         "url": "https://www.airbnb.se/rooms/43071977",
-        "photo": null,
+        "photo": {
+          "src": "https://a0.muscache.com/im/pictures/a18d4d44-d62a-4ef8-9f0b-4a48f22c5534.jpg?im_w=720&width=720&quality=70&auto=webp",
+          "source": "https://www.airbnb.se/rooms/43071977",
+          "credit": "Kamome 2 host / Airbnb",
+          "alt": "Kamome 2 accommodation in Takamatsu",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "JPY",
         "checkIn": "15:00",
         "checkInNotes": "From 15:00",
@@ -520,17 +706,49 @@
           "name": "Kamada Kyosaikai Kyodo Museum",
           "date": "2026-12-29",
           "cost": null,
-          "notes": "Book reference: The Komura Memorial Library."
+          "notes": "Book reference: The Komura Memorial Library.",
+          "url": "https://kamada-museum.jp/",
+          "photo": {
+            "src": "https://kamada-museum.jp/wp/wp-content/themes/kamada-museum/assets/images/home/image-local01.jpg",
+            "source": "https://kamada-museum.jp/",
+            "credit": "Kamada Museum",
+            "alt": "Kamada Kyosaikai Local Museum",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "notice": {
+            "text": "Official visitor information lists a year-end closure December 29–January 4, which conflicts with the planned December 29 visit. The museum is in Sakaide, not central Takamatsu.",
+            "url": "https://kamada-museum.jp/access",
+            "checkedOn": "2026-10-02"
+          }
         },
         {
           "name": "Ritsurin Koen Garden",
           "date": "2026-12-29",
-          "cost": null
+          "cost": null,
+          "url": "https://www.my-kagawa.jp/static/en/ritsurin/",
+          "photo": {
+            "src": "https://www.my-kagawa.jp/static/en/ritsurin/images/main_image01.jpg",
+            "source": "https://www.my-kagawa.jp/static/en/ritsurin/",
+            "credit": "VISIT KAGAWA",
+            "alt": "Ritsurin Garden",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Tamura Shrine",
           "date": "2026-12-29",
-          "cost": null
+          "cost": null,
+          "url": "https://tamurajinja.com/",
+          "photo": {
+            "src": "https://tamurajinja.com/tsite-wp/wp-content/uploads/2020/06/slide_01-1.jpg",
+            "source": "https://tamurajinja.com/",
+            "credit": "Tamura Shrine",
+            "alt": "Tamura Shrine in Takamatsu",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "restaurants": [
@@ -538,7 +756,9 @@
           "name": "Sanuki udon",
           "date": "2026-12-29",
           "cost": null,
-          "notes": "Meal inspired by the book; restaurant to be chosen."
+          "notes": "Meal inspired by the book; restaurant to be chosen.",
+          "url": "https://www.my-kagawa.jp/en/see-and-do/10132",
+          "websiteLabel": "Official udon guide — restaurant undecided"
         },
         {
           "name": "Okayama station boxed lunch (ekiben)",
@@ -583,7 +803,14 @@
         "cost": 22088,
         "address": "",
         "url": "https://www3.apahotel.com/hotel/shutoken/tokyo/uenoekimae/",
-        "photo": null,
+        "photo": {
+          "src": "https://www3.apahotel.com/image/750gaikan104.jpg",
+          "source": "https://www3.apahotel.com/hotel/shutoken/tokyo/uenoekimae/",
+          "credit": "APA Hotels & Resorts",
+          "alt": "APA Hotel Ueno Ekimae exterior",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "JPY",
         "paymentStatus": "paid",
         "checkIn": "15:00",
@@ -600,7 +827,21 @@
         {
           "name": "Tokyo National Museum",
           "date": "2026-12-30",
-          "cost": null
+          "cost": null,
+          "url": "https://www.tnm.jp/?lang=en",
+          "photo": {
+            "src": "https://www.tnm.jp/themes/tnm2022/image/img_exhibition_hall_01.jpg",
+            "source": "https://www.tnm.jp/?lang=en",
+            "credit": "Tokyo National Museum",
+            "alt": "Tokyo National Museum Honkan",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "notice": {
+            "text": "Official visitor information lists closure December 26–31, 2026, which conflicts with the planned December 30 visit.",
+            "url": "https://www.tnm.jp/modules/r_free_page/index.php?id=113&lang=en",
+            "checkedOn": "2026-10-02"
+          }
         }
       ],
       "restaurants": [],
@@ -626,7 +867,14 @@
         "cost": 1535,
         "address": "",
         "url": "https://www.hotelwing.co.jp/shimbashi-onarimon/",
-        "photo": null,
+        "photo": {
+          "src": "https://www.hotelwing.co.jp/wp-content/uploads/2023/11/shimbashi-onarimon__mv__01.jpg",
+          "source": "https://www.hotelwing.co.jp/shimbashi-onarimon/",
+          "credit": "KOKO HOTEL",
+          "alt": "KOKO HOTEL Shimbashi Onarimon",
+          "verifiedOn": "2026-10-02",
+          "rights": "Provider-owned photo; republication permission not verified."
+        },
         "costCurrency": "SEK",
         "paymentStatus": "paid",
         "checkIn": "15:00",
@@ -640,31 +888,74 @@
         {
           "name": "Shibuya Crossing",
           "date": "2026-12-31",
-          "cost": null
+          "cost": null,
+          "url": "https://www.gotokyo.org/en/spot/78/index.html",
+          "photo": {
+            "src": "https://www.gotokyo.org/en/spot/78/images/main.webp",
+            "source": "https://www.gotokyo.org/en/spot/78/index.html",
+            "credit": "GO TOKYO / Tokyo Convention & Visitors Bureau",
+            "alt": "Shibuya Scramble Crossing",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Pokemon Center",
           "date": "2026-12-31",
           "cost": null,
-          "notes": "Branch not specified."
+          "notes": "Branch not specified.",
+          "url": "https://www.pokemon.co.jp/shop/",
+          "websiteLabel": "Official store list — branch undecided"
         },
         {
           "name": "Zojo-ji temple",
           "date": "2026-12-31",
           "cost": null,
-          "time": "20:00"
+          "time": "20:00",
+          "url": "https://www.zojoji.or.jp/en/",
+          "photo": {
+            "src": "https://www.zojoji.or.jp/ogimg_240713-2.jpg",
+            "source": "https://www.zojoji.or.jp/en/",
+            "credit": "Zojo-ji temple",
+            "alt": "Zojo-ji temple",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "restaurants": [
         {
           "name": "NEZUCAFE",
           "date": "2026-12-31",
-          "cost": null
+          "cost": null,
+          "url": "https://www.nezu-muse.or.jp/en/visit/cafe/",
+          "photo": {
+            "src": "https://www.nezu-muse.or.jp/common/img/visit/cafe/01.jpg",
+            "source": "https://www.nezu-muse.or.jp/en/visit/cafe/",
+            "credit": "Nezu Museum",
+            "alt": "NEZUCAFÉ in the museum garden",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "notice": {
+            "text": "NEZUCAFÉ is only available to museum visitors. Check the museum calendar and obtain museum admission before visiting.",
+            "url": "https://www.nezu-muse.or.jp/en/visit/cafe/",
+            "checkedOn": "2026-10-02"
+          }
         },
         {
           "name": "Kushiyaki Meat Man",
           "date": "2026-12-31",
-          "cost": null
+          "cost": null,
+          "url": "https://teyandei.com/en/?page_id=18756",
+          "photo": {
+            "src": "https://teyandei.com/wp-content/uploads/2023/12/1M6A0035-2000x1100.jpg",
+            "source": "https://teyandei.com/en/?page_id=18756",
+            "credit": "Basics / Kushiyaki Meat Man",
+            "alt": "Kushiyaki Meat Man Shibuya",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         }
       ],
       "notes": "",
@@ -697,13 +988,38 @@
           "name": "Koenji Kita",
           "date": "2027-01-01",
           "cost": null,
-          "notes": "Itinerary describes it as No. 8 coolest neighborhood in 2026; ranking not independently verified."
+          "notes": "Itinerary describes it as No. 8 coolest neighborhood in 2026; ranking not independently verified.",
+          "url": "https://www.gotokyo.org/en/destinations/western-tokyo/koenji/index.html",
+          "photo": {
+            "src": "https://www.gotokyo.org/en/destinations/western-tokyo/koenji/images/main.jpg",
+            "source": "https://www.gotokyo.org/en/destinations/western-tokyo/koenji/index.html",
+            "credit": "GO TOKYO / Tokyo Convention & Visitors Bureau",
+            "alt": "Koenji district; area reference",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          }
         },
         {
           "name": "Kawagoe or Kamakura",
           "date": "2027-01-02",
           "cost": null,
-          "notes": "Alternative day trips; destination undecided."
+          "notes": "Alternative day trips; destination undecided.",
+          "url": "https://koedo.or.jp/",
+          "websiteLabel": "Kawagoe tourism — one possible day trip",
+          "photo": {
+            "src": "https://koedo.or.jp/wp-content/uploads/8424ca1cff5830a6b57e5d8bb83c5ace-2080x1224.jpg",
+            "source": "https://koedo.or.jp/",
+            "credit": "Koedo Kawagoe Tourist Association",
+            "alt": "Kawagoe — one possible day trip",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "links": [
+            {
+              "label": "Kamakura tourism — alternative",
+              "url": "https://visit.trip-kamakura.com/"
+            }
+          ]
         },
         {
           "name": "Free day — plans TBD",
@@ -728,12 +1044,23 @@
           "date": "2027-01-01",
           "cost": null,
           "openingTime": "17:00",
-          "notes": "Dinner; opens at 17:00 according to itinerary."
+          "notes": "Dinner; opens at 17:00 according to itinerary.",
+          "url": "https://koenji-depart.com/shop_info/pinzoro/",
+          "photo": {
+            "src": "https://koenji-depart.com/wp/wp-content/uploads/2025/12/pinzoro-1.jpg",
+            "source": "https://koenji-depart.com/shop_info/pinzoro/",
+            "credit": "Koenji Depart / Pinzoro",
+            "alt": "Pinzoro Koenji restaurant",
+            "verifiedOn": "2026-10-02",
+            "rights": "Provider-owned photo; republication permission not verified."
+          },
+          "websiteLabel": "Local venue listing"
         }
       ],
       "notes": "January 1–4 accommodation and map destination still TBD. Tokyo-area plans recorded from the itinerary; no hotel or map pin invented.",
       "transportToNext": null
     }
   ],
-  "sourceNotes": "Enriched from the user's itinerary. Dates are December 2026–January 2027. Costs remain in their original currencies, no exchange-rate conversion. All times and booking details supplied by the user; venue opening dates/hours not independently verified."
+  "sourceNotes": "Enriched from the user's itinerary. Dates are December 2026–January 2027. Costs remain in their original currencies, no exchange-rate conversion. All times and booking details supplied by the user; venue opening dates/hours not independently verified.",
+  "mediaRevision": 1
 }
