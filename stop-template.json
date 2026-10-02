@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "title": "Japan / December",
+  "currency": "SEK",
+  "travelers": null,
+  "stops": [
+    {
+      "id": "tokyo-1",
+      "city": "Tokyo",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-18",
+      "label": "Arrival",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "Hotel Monterey Ginza",
+        "cost": null,
+        "address": "",
+        "url": "",
+        "photo": null
+      },
+      "sceneImage": null,
+      "activities": [
+        {
+          "name": "Activity name",
+          "date": "2026-12-17",
+          "time": null,
+          "cost": null,
+          "url": "",
+          "notes": ""
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Restaurant name",
+          "date": "2026-12-17",
+          "time": null,
+          "cost": null,
+          "url": "",
+          "reservationStatus": "not booked",
+          "notes": ""
+        }
+      ],
+      "transportToNext": null,
+      "notes": ""
+    }
+  ]
+}

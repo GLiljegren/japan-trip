@@ -1,0 +1,143 @@
+JAPAN ITINERARY — FILE FORMAT v1
+
+Start with itinerary.json (your eleven-stop December 2026–January 2027 trip) or stop-template.json
+(one example stop). Dates currently use 2026; change the year if needed.
+Copy stop objects inside the stops list to add destinations, in travel order.
+
+HOW TO USE
+1. Edit the JSON file in a text editor, preserving quotes and commas.
+2. Select "Ladda resplan" on the site, then select your JSON file.
+3. The map, train route, dates, photos and budget update.
+4. "Aktiviteter & restauranger" opens the plan for the current stop.
+5. "Hämta JSON" exports the itinerary, including edited hotel prices.
+The file is read locally and saved in this browser. No server is needed.
+Changes to a JSON file on disk require selecting the file again.
+Reload itinerary.json to restore the original route. You can also send the
+file in this chat for editing.
+
+TRIP FIELDS
+version       Required. Always 1.
+title         Required. Trip title.
+currency      Required. SEK, JPY, HKD, EUR, USD, GBP, NOK or DKK.
+travelers     Optional. Number of people, or null when unknown.
+stops         Required. 1–50 stops, ordered by startDate.
+
+EACH STOP
+id            Optional but recommended. Unique, e.g. "tokyo-ginza".
+city          Required. City/area name, e.g. "Tokyo".
+startDate     Required. Arrival date, YYYY-MM-DD.
+endDate       Required. Departure date, YYYY-MM-DD; later than startDate.
+label         Optional short chapter title, e.g. "Hot springs".
+coordinates   {"longitude":139.69171,"latitude":35.6895}
+              Optional for Tokyo, Hakone, Osaka and Kyoto. Required for other
+              destinations in Japan. These locate the stop, not each venue.
+hotel         Required object; see below.
+sceneImage    Optional photo object, or null. Main atmosphere image.
+activities    Optional list of activity objects. Use [] when empty.
+restaurants   Optional list of restaurant objects. Use [] when empty.
+transportToNext Optional transport object, or null at the final stop.
+notes         Optional free text shown in the stop plan.
+
+HOTEL
+name          Required.
+cost          Total for the ENTIRE STAY and ALL TRAVELERS, in costCurrency
+              (falls back to trip.currency if omitted).
+              A number (e.g. 3400), or null when unknown.
+              Do not enter a nightly or per-person rate.
+costCurrency  Optional original currency, e.g. "JPY", "SEK" or "HKD".
+paymentStatus Optional "paid", "unpaid" or "unknown".
+costEstimated Optional true for an approximate amount.
+checkIn       Optional HH:MM hotel check-in time supplied by your booking.
+checkOut      Optional HH:MM hotel check-out time.
+checkInNotes / checkOutNotes Optional qualifiers, e.g. "Before 11:00".
+breakfast     Optional {startTime, endTime, notes}.
+booking       Optional {provider, url, reference}; keep references private.
+address       Optional. Displayed in the hotel drawer.
+url           Optional. Hotel/booking website link.
+photo         Optional photo object, or null. Small overlapping hotel photo.
+
+ACTIVITIES AND RESTAURANTS
+name          Required for each list item.
+date          Optional YYYY-MM-DD, within this stop's dates.
+time          Optional 24-hour HH:MM (e.g. "19:30"), or null.
+cost          Optional group cost/estimate in costCurrency, or null.
+costCurrency / paymentStatus / costEstimated Same as hotel.
+costPerPerson Optional per-person price; NOT included in group totals.
+endTime       Optional HH:MM end time.
+openingTime   Optional HH:MM opening time (not a reservation).
+meetingPoint  Optional meeting address or landmark.
+reservation   Optional {name, reference}; private reservation details.
+url           Optional booking/menu/information link.
+notes         Optional free text.
+reservationStatus Optional restaurant text, e.g. "booked" or "not booked".
+
+TRANSPORT TO NEXT STOP
+mode          "train", "bus", "flight", "ferry", "car", or null when undecided.
+              "Shinkansen" is accepted as a train alias.
+              Choose this in the stop's plan panel or edit the JSON file.
+              It applies from this stop to the next stop.
+cost          Optional total group cost in costCurrency, or null.
+costCurrency  Optional currency override.
+date / departureTime / arrivalTime Optional date and local HH:MM times.
+operator      Optional airline / ferry / railway name.
+segments      Optional list of connecting services, origin and destination.
+options       Optional possible modes; mode stays null until decided.
+booking / checkedBaggageKg Optional booking and luggage details.
+notes         Optional departure time, station names, ticket details etc.
+waypoints     Optional list of longitude/latitude objects for the illustrated
+              route. Omit to connect destinations directly. Not actual
+              turn-by-turn rail directions.
+
+PHOTO OBJECTS (hotel.photo / sceneImage)
+src           Required when providing a photo. An https:// image URL, or a
+              file already in the site's assets/ folder.
+              Example: "assets/hotel-monterey.webp".
+              Loading JSON does not copy photo files.
+alt           Optional image description.
+source        Optional credited webpage. The hotel stamp opens its drawer.
+credit        Optional photographer/provider attribution.
+panel         Optional 0–3, only for the existing four-panel scene image.
+              Omit for a normal single photograph.
+External images need internet access and may be blocked by their provider.
+
+COST AND DATE RULES
+Each entry uses costCurrency, falling back to trip.currency.
+Budget totals are kept separate by currency; there is no currency conversion.
+Per-person prices are excluded from group totals even if travelers is known.
+The budget displays costs and estimates, not who paid or how to split them.
+Optional paymentStatus metadata is preserved in JSON but not shown.
+Source times and future flight details come from your document, not live verification.
+Hotel, activity, restaurant and transport costs are summed once per entry.
+Use null for unknown costs, 0 for confirmed free/included items.
+Avoid counting a meal twice if it is included in the hotel price.
+Unpriced items are excluded from the total and counted separately.
+Stops must not overlap; checkout and next arrival on the same day is OK.
+
+VEHICLE CHANGES
+The train and bus models switch at stops where the next leg uses a different
+mode. The hop/shrink/swap/grow/landing animation spans about 300 pixels of
+scroll, capped for short legs. Pausing the scroll pauses the animation;
+scrolling backwards reverses it. Reduced-motion settings use a direct swap.
+At the journey's start the vehicle is invisible, then grows in and hops as
+you scroll. At the end it hops and shrinks away using the reversed curve.
+The bus is displayed at 72.25% of the vehicle marker's normal size.
+transport-demo.json demonstrates train -> bus -> train. Load it using
+"Ladda resplan" to preview both changes without editing your original trip.
+
+PENDING FINAL STOP
+Use "status": "pending" for a final TBD destination with coordinates: null.
+It appears in the timeline but has no map pin or invented route.
+For example: January 1–4, city "TBD", hotel.name "TBD".
+When you decide, remove status or set it to "confirmed", fill in the city,
+coordinates and hotel, and load the updated file.
+Unset transport legs use a train as a visual placeholder until you select a
+mode. This does not change the transport choice in your itinerary file.
+Flight legs use the original airplane model, raised 30px above its shadow.
+It uses the same reversible scroll-driven hop/shrink/swap/grow transitions.
+Ferry and car legs have no vehicle model yet, so the marker hides
+while the map still follows the illustrated route.
+
+MINIMAL STOP
+Only city, startDate, endDate and hotel.name are needed, plus coordinates if
+the city is not built in. Optional lists and photos can be omitted.
+The trip-level version, title, currency and stops fields are still required.

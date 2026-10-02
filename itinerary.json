@@ -1,0 +1,739 @@
+{
+  "version": 1,
+  "title": "Japan / December–January",
+  "currency": "SEK",
+  "travelers": null,
+  "stops": [
+    {
+      "id": "tokyo-ginza",
+      "city": "Tokyo",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-18",
+      "label": "Arrival",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "Hotel Monterey Ginza",
+        "cost": 2000,
+        "address": "2-10-2 Ginza, Chuo-ku, Tokyo, Japan",
+        "url": "https://www.hotelmonterey.co.jp/en/ginza/",
+        "photo": {
+          "src": "assets/hotel-monterey.webp",
+          "alt": "Hotel Monterey Ginza",
+          "source": "https://www.hotelmonterey.co.jp/en/ginza/",
+          "credit": "Hotel Monterey"
+        },
+        "costCurrency": "SEK",
+        "paymentStatus": "paid",
+        "checkOut": "11:00"
+      },
+      "sceneImage": {
+        "src": "assets/anime-tokyo-v3.png",
+        "alt": "Illustration of Tokyo Tower, unmistakable red-and-white tower, rises over a few simplified low city rooftops. Soft blue sky, two or three rounded clouds, quiet peach winter afternoon light. The tower is the clear main subject, its lattice simplified into sparse linework."
+      },
+      "activities": [
+        {
+          "name": "Arrival at Narita Airport (NRT)",
+          "date": "2026-12-17",
+          "cost": null,
+          "time": "15:10",
+          "type": "arrival"
+        },
+        {
+          "name": "Marunouchi Naka-Dori illuminations and Christmas market",
+          "date": "2026-12-17",
+          "cost": null
+        },
+        {
+          "name": "Tokyo Tower",
+          "date": "2026-12-17",
+          "cost": null
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Tokyo Ramen Street",
+          "date": "2026-12-17",
+          "cost": null
+        },
+        {
+          "name": "Tsukiji Outer Market — early breakfast",
+          "date": "2026-12-18",
+          "cost": null,
+          "notes": "Breakfast before 08:30."
+        }
+      ],
+      "notes": "",
+      "transportToNext": {
+        "mode": "bus",
+        "cost": null,
+        "notes": "",
+        "waypoints": [
+          {
+            "longitude": 139.69171,
+            "latitude": 35.6895
+          },
+          {
+            "longitude": 139.5,
+            "latitude": 35.55
+          },
+          {
+            "longitude": 139.25,
+            "latitude": 35.4
+          },
+          {
+            "longitude": 139.1,
+            "latitude": 35.23333
+          }
+        ]
+      }
+    },
+    {
+      "id": "hakone",
+      "city": "Hakone",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "label": "Hot springs",
+      "coordinates": {
+        "longitude": 139.1,
+        "latitude": 35.23333
+      },
+      "hotel": {
+        "name": "Hakone Kowakudani Onsen Mizunooto",
+        "cost": 84000,
+        "address": "492-23 Kowakudani, Hakone-machi, Ashigarashimo District, Kanagawa 250-0406, Japan",
+        "url": "https://dormy-hotels.com/resort/hotels/mizunoto/",
+        "photo": {
+          "src": "assets/hotel-mizunoto.webp",
+          "alt": "Onsen Mizunoto",
+          "source": "https://dormy-hotels.com/resort/hotels/mizunoto/",
+          "credit": "Dormy Hotels"
+        },
+        "costCurrency": "JPY",
+        "costEstimated": true,
+        "paymentStatus": "unpaid",
+        "checkIn": "15:00",
+        "checkOut": "11:00",
+        "checkOutNotes": "Before 11:00",
+        "booking": {
+          "provider": "Japanican",
+          "url": "https://www.japanican.com/",
+          "reference": "634399799"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/anime-hakone-v3.png",
+        "alt": "Illustration of Hakone's red lakeside torii gate at Lake Ashi, calm pale-blue water, layered blue-green hills and Mount Fuji's white peak in the distance. A few soft pine-tree silhouettes. Torii gate and Fuji instantly readable."
+      },
+      "activities": [],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": "bus",
+        "cost": null,
+        "notes": "",
+        "waypoints": [
+          {
+            "longitude": 139.1,
+            "latitude": 35.23333
+          },
+          {
+            "longitude": 139.25,
+            "latitude": 35.4
+          },
+          {
+            "longitude": 139.5,
+            "latitude": 35.55
+          },
+          {
+            "longitude": 139.69171,
+            "latitude": 35.6895
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-shinjuku",
+      "city": "Tokyo",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-21",
+      "label": "City lights",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "APA Hotel Higashi Shinjuku Kabukicho Tower",
+        "cost": 4116,
+        "address": "",
+        "url": "https://www3.apahotel.com/hotel/syutoken/tokyo/higashishinjuku-kabukichotower/",
+        "photo": null,
+        "costCurrency": "SEK",
+        "paymentStatus": "paid",
+        "checkIn": "15:00",
+        "checkOut": "10:00"
+      },
+      "sceneImage": {
+        "src": "assets/anime-tokyo-v3.png",
+        "alt": "Illustration of Tokyo Tower, unmistakable red-and-white tower, rises over a few simplified low city rooftops. Soft blue sky, two or three rounded clouds, quiet peach winter afternoon light. The tower is the clear main subject, its lattice simplified into sparse linework."
+      },
+      "activities": [
+        {
+          "name": "Shinjuku Gyoen",
+          "date": "2026-12-19",
+          "cost": null
+        },
+        {
+          "name": "Meiji Jingu",
+          "date": "2026-12-19",
+          "cost": null
+        },
+        {
+          "name": "Harajuku Takeshita Street",
+          "date": "2026-12-19",
+          "cost": null
+        },
+        {
+          "name": "Shinjuku streets and Kabukicho",
+          "date": "2026-12-19",
+          "cost": null
+        },
+        {
+          "name": "Mount Fuji / Kawaguchiko one-day bus tour",
+          "date": "2026-12-20",
+          "cost": 1695,
+          "time": "08:20",
+          "endTime": "18:10",
+          "costCurrency": "HKD",
+          "paymentStatus": "paid",
+          "url": "https://www.kkday.com/zh-hk/product/35701-mt-fuji-1-day-bus-tour-japan",
+          "meetingPoint": "Shinjuku i-Land Tower, in front of LOVE sign",
+          "notes": "08:20 meeting at LOVE sign; 18:10 arrival at Shinjuku Station."
+        },
+        {
+          "name": "Senso-ji and Kaminarimon",
+          "date": "2026-12-21",
+          "cost": null
+        },
+        {
+          "name": "Ueno Ameyoko Market",
+          "date": "2026-12-21",
+          "cost": null
+        },
+        {
+          "name": "Head to Narita Airport (NRT)",
+          "date": "2026-12-21",
+          "cost": null,
+          "time": "15:00"
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Ginza Happo — Shinjuku branch (銀座八芳 新宿店)",
+          "date": "2026-12-19",
+          "cost": null,
+          "time": "19:30",
+          "costCurrency": "JPY",
+          "costPerPerson": 13000,
+          "reservationStatus": "booked",
+          "reservation": {
+            "reference": "GTTUR9T36P",
+            "name": "Rebecca Hui"
+          },
+          "url": "https://tabelog.com/tw/tokyo/A1304/A130401/13302257/party/290805151/",
+          "notes": "120-minute buffet; over 150 seafood, yakiniku, Japanese, Western and Chinese dishes including king crab; unlimited alcoholic drinks. ¥13,000 per person; group size not supplied."
+        },
+        {
+          "name": "Banban Shinjuku Main Store or Omoide Yokocho izakaya",
+          "date": "2026-12-20",
+          "cost": null,
+          "reservationStatus": "tentative",
+          "notes": "Choose one; alternative dinner ideas, not two bookings."
+        }
+      ],
+      "notes": "",
+      "transportToNext": {
+        "mode": "flight",
+        "cost": null,
+        "operator": "Jetstar",
+        "date": "2026-12-21",
+        "departureTime": "18:40",
+        "arrivalTime": "20:25",
+        "departureAirport": "NRT",
+        "arrivalAirport": null,
+        "booking": {
+          "provider": "Gotogate"
+        },
+        "checkedBaggageKg": 20,
+        "notes": "Jetstar flight 18:40–20:25, booked via Gotogate. 20 kg checked luggage. Osaka arrival airport not specified."
+      }
+    },
+    {
+      "id": "osaka",
+      "city": "Osaka",
+      "startDate": "2026-12-21",
+      "endDate": "2026-12-24",
+      "label": "Osaka",
+      "coordinates": {
+        "longitude": 135.5011,
+        "latitude": 34.6937
+      },
+      "hotel": {
+        "name": "APA Hotel & Resort Osaka Namba Ekimae Tower",
+        "cost": 33660,
+        "address": "",
+        "url": "https://www3.apahotel.com/hotel/kansai/osaka/osaka-namba-ekimae-tower/",
+        "photo": {
+          "src": "assets/hotel-osaka.jpg",
+          "alt": "APA Osaka Namba Ekimae Tower",
+          "source": "https://www.kkday.com/en/hotel/product/301416",
+          "credit": "KKday"
+        },
+        "costCurrency": "JPY",
+        "paymentStatus": "paid",
+        "checkOut": "10:00"
+      },
+      "sceneImage": {
+        "src": "assets/anime-osaka-v3.png",
+        "alt": "Illustration of Osaka Castle, recognizable white layered roof tiers with green roof tiles and gold accents, above its stone foundation. A few broad tree shapes and a gentle blue sky. The castle is the clear main landmark."
+      },
+      "activities": [
+        {
+          "name": "Osaka — free day",
+          "date": "2026-12-22",
+          "cost": null,
+          "notes": "Plans to be decided."
+        },
+        {
+          "name": "Osaka — free day",
+          "date": "2026-12-23",
+          "cost": null,
+          "notes": "Plans to be decided."
+        }
+      ],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": null,
+        "cost": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "kyoto",
+      "city": "Kyoto",
+      "startDate": "2026-12-24",
+      "endDate": "2026-12-26",
+      "label": "Kyoto",
+      "coordinates": {
+        "longitude": 135.7681,
+        "latitude": 35.0116
+      },
+      "hotel": {
+        "name": "Onyado Nono Kyoto Shichijo Natural Hot Spring",
+        "cost": 46737,
+        "address": "",
+        "url": "https://dormy-hotels.com/dormyinn/hotels/nono_kyoto/",
+        "photo": null,
+        "costCurrency": "JPY",
+        "paymentStatus": "paid",
+        "checkIn": "15:00",
+        "checkOut": "11:00",
+        "breakfast": {
+          "startTime": "06:30",
+          "endTime": "10:00",
+          "notes": "Go before 08:00 to avoid crowds."
+        }
+      },
+      "sceneImage": {
+        "src": "assets/anime-kyoto-v3.png",
+        "alt": "Illustration of Kyoto's Fushimi Inari shrine: a short receding row of bright vermilion torii gates on a quiet path, a few broad green forest shapes and warm shafts of painted light. Distinct red gates are the unmistakable subject."
+      },
+      "activities": [
+        {
+          "name": "Kitano Tenmangu — Shimai Tenjin market (終天神市)",
+          "date": "2026-12-25",
+          "cost": null
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Hotel breakfast",
+          "date": "2026-12-25",
+          "cost": null,
+          "time": "06:30",
+          "endTime": "10:00",
+          "notes": "Go before 08:00 to avoid crowds. Breakfast cost/inclusion not specified; no extra amount counted."
+        },
+        {
+          "name": "KFC?",
+          "date": "2026-12-25",
+          "cost": null,
+          "reservationStatus": "tentative"
+        },
+        {
+          "name": "Hotel breakfast",
+          "date": "2026-12-26",
+          "cost": null,
+          "time": "06:30",
+          "endTime": "10:00",
+          "notes": "Go before 08:00 to avoid crowds."
+        }
+      ],
+      "notes": "",
+      "transportToNext": {
+        "mode": null,
+        "cost": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "nara",
+      "city": "Nara",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-27",
+      "label": "Nara",
+      "coordinates": {
+        "longitude": 135.804850459099,
+        "latitude": 34.6850548003686
+      },
+      "hotel": {
+        "name": "Yuzan Guesthouse",
+        "cost": 6415,
+        "address": "",
+        "url": "https://www.yuzanguesthouse.com/",
+        "photo": null,
+        "costCurrency": "JPY",
+        "paymentStatus": "paid",
+        "checkIn": "15:00",
+        "checkOut": "11:00"
+      },
+      "sceneImage": {
+        "src": "assets/anime-nara-v3.png",
+        "alt": "Illustration of Nara: two gently drawn deer in the foreground of Nara Park, with the recognizable broad curved roof of Todai-ji temple behind them. Simple grass shapes, a stone lantern, pale sky. Deer and temple are the main iconic features."
+      },
+      "activities": [
+        {
+          "name": "Sento — public bath house",
+          "date": "2026-12-26",
+          "cost": null,
+          "notes": "Bath house to be chosen."
+        }
+      ],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": null,
+        "cost": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "kobe",
+      "city": "Kobe",
+      "startDate": "2026-12-27",
+      "endDate": "2026-12-28",
+      "label": "Kobe",
+      "coordinates": {
+        "longitude": 135.182995,
+        "latitude": 34.691304
+      },
+      "hotel": {
+        "name": "BRENZA HOTEL",
+        "cost": 11760,
+        "address": "",
+        "url": "https://brenzahotel.jp/home-english",
+        "photo": null,
+        "costCurrency": "JPY",
+        "paymentStatus": "paid",
+        "checkIn": "15:00",
+        "checkOut": "11:00"
+      },
+      "sceneImage": {
+        "src": "assets/anime-kobe-v3.png",
+        "alt": "Illustration of Kobe's red hourglass-shaped Port Tower beside the harbor, with the simple white curved sculptural Maritime Museum roof nearby. Pale turquoise water and one distant mountain shape, soft pastel sky."
+      },
+      "activities": [],
+      "restaurants": [
+        {
+          "name": "Ishidaya Sannomiya Main Store (石田屋 三宮本店)",
+          "date": "2026-12-27",
+          "cost": null,
+          "url": "https://tabelog.com/hyogo/A2801/A280101/28003841/",
+          "notes": "Dinner."
+        },
+        {
+          "name": "Kobe Beef Steak Restaurant Mouriya Sannomiya",
+          "date": "2026-12-28",
+          "cost": null,
+          "notes": "Lunch."
+        }
+      ],
+      "notes": "",
+      "transportToNext": {
+        "mode": null,
+        "cost": null,
+        "options": [
+          "ferry",
+          "bus",
+          "car"
+        ],
+        "url": "https://ferry.co.jp/en/sea_route/kobe-takamatsu/",
+        "videoURL": "https://www.youtube.com/watch?v=omcvWzctNDU",
+        "notes": "Kobe → Takamatsu: Jumbo Ferry, or bus / rental car. Not decided."
+      }
+    },
+    {
+      "id": "takamatsu",
+      "city": "Takamatsu",
+      "startDate": "2026-12-28",
+      "endDate": "2026-12-30",
+      "label": "Takamatsu",
+      "coordinates": {
+        "longitude": 134.05,
+        "latitude": 34.333333
+      },
+      "hotel": {
+        "name": "Kamome Jyuku",
+        "cost": null,
+        "address": "",
+        "url": "https://www.airbnb.se/rooms/43071977",
+        "photo": null,
+        "costCurrency": "JPY",
+        "checkIn": "15:00",
+        "checkInNotes": "From 15:00",
+        "checkOut": "10:00",
+        "notes": "Kamome 2 — Airbnb listing supplied in itinerary.",
+        "booking": {
+          "provider": "Airbnb",
+          "invitationURL": "https://www.airbnb.com/l/3nHLeIjB?s=67&unique_share_id=055a03e9-3b7d-4577-810a-64139f89342f"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/anime-takamatsu-v3.png",
+        "alt": "Illustration of Takamatsu's Ritsurin Garden: its arched wooden garden bridge over a calm pond, a few sculptural pruned pine trees, and broad Mount Shiun silhouette behind. The bridge and distinctive pines are clear main subjects."
+      },
+      "activities": [
+        {
+          "name": "Kamada Kyosaikai Kyodo Museum",
+          "date": "2026-12-29",
+          "cost": null,
+          "notes": "Book reference: The Komura Memorial Library."
+        },
+        {
+          "name": "Ritsurin Koen Garden",
+          "date": "2026-12-29",
+          "cost": null
+        },
+        {
+          "name": "Tamura Shrine",
+          "date": "2026-12-29",
+          "cost": null
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Sanuki udon",
+          "date": "2026-12-29",
+          "cost": null,
+          "notes": "Meal inspired by the book; restaurant to be chosen."
+        },
+        {
+          "name": "Okayama station boxed lunch (ekiben)",
+          "date": "2026-12-30",
+          "cost": null
+        }
+      ],
+      "notes": "",
+      "transportToNext": {
+        "mode": "train",
+        "cost": null,
+        "via": "Okayama",
+        "segments": [
+          {
+            "mode": "train",
+            "service": "Marine Liner",
+            "from": "JR Takamatsu Station",
+            "to": "JR Okayama Station"
+          },
+          {
+            "mode": "train",
+            "service": "Sanyo / Tokaido Shinkansen (e.g. Nozomi)",
+            "from": "JR Okayama Station",
+            "to": "Tokyo"
+          }
+        ],
+        "notes": "Marine Liner from Takamatsu to Okayama; transfer to Sanyo / Tokaido Shinkansen (e.g. Nozomi) to Tokyo."
+      }
+    },
+    {
+      "id": "tokyo-ueno",
+      "city": "Tokyo",
+      "startDate": "2026-12-30",
+      "endDate": "2026-12-31",
+      "label": "Tokyo",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "APA Hotel Ueno Ekimae",
+        "cost": 22088,
+        "address": "",
+        "url": "https://www3.apahotel.com/hotel/shutoken/tokyo/uenoekimae/",
+        "photo": null,
+        "costCurrency": "JPY",
+        "paymentStatus": "paid",
+        "checkIn": "15:00",
+        "checkOut": "10:00",
+        "booking": {
+          "provider": "Agoda"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/anime-tokyo-v3.png",
+        "alt": "Illustration of Tokyo Tower, unmistakable red-and-white tower, rises over a few simplified low city rooftops. Soft blue sky, two or three rounded clouds, quiet peach winter afternoon light. The tower is the clear main subject, its lattice simplified into sparse linework."
+      },
+      "activities": [
+        {
+          "name": "Tokyo National Museum",
+          "date": "2026-12-30",
+          "cost": null
+        }
+      ],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": null,
+        "cost": null,
+        "notes": ""
+      }
+    },
+    {
+      "id": "tokyo-onarimon",
+      "city": "Tokyo",
+      "startDate": "2026-12-31",
+      "endDate": "2027-01-01",
+      "label": "Tokyo",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "KOKO HOTEL Shimbashi Onarimon",
+        "cost": 1535,
+        "address": "",
+        "url": "https://www.hotelwing.co.jp/shimbashi-onarimon/",
+        "photo": null,
+        "costCurrency": "SEK",
+        "paymentStatus": "paid",
+        "checkIn": "15:00",
+        "checkOut": "11:00"
+      },
+      "sceneImage": {
+        "src": "assets/anime-tokyo-v3.png",
+        "alt": "Illustration of Tokyo Tower, unmistakable red-and-white tower, rises over a few simplified low city rooftops. Soft blue sky, two or three rounded clouds, quiet peach winter afternoon light. The tower is the clear main subject, its lattice simplified into sparse linework."
+      },
+      "activities": [
+        {
+          "name": "Shibuya Crossing",
+          "date": "2026-12-31",
+          "cost": null
+        },
+        {
+          "name": "Pokemon Center",
+          "date": "2026-12-31",
+          "cost": null,
+          "notes": "Branch not specified."
+        },
+        {
+          "name": "Zojo-ji temple",
+          "date": "2026-12-31",
+          "cost": null,
+          "time": "20:00"
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "NEZUCAFE",
+          "date": "2026-12-31",
+          "cost": null
+        },
+        {
+          "name": "Kushiyaki Meat Man",
+          "date": "2026-12-31",
+          "cost": null
+        }
+      ],
+      "notes": "",
+      "transportToNext": null
+    },
+    {
+      "id": "january-tbd",
+      "city": "TBD",
+      "startDate": "2027-01-01",
+      "endDate": "2027-01-04",
+      "label": "To be decided",
+      "status": "pending",
+      "coordinates": null,
+      "hotel": {
+        "name": "TBD",
+        "cost": null,
+        "address": "",
+        "url": "",
+        "photo": null
+      },
+      "sceneImage": null,
+      "activities": [
+        {
+          "name": "Akihabara maid cafe",
+          "date": "2027-01-01",
+          "cost": null,
+          "notes": "Cafe to be chosen."
+        },
+        {
+          "name": "Koenji Kita",
+          "date": "2027-01-01",
+          "cost": null,
+          "notes": "Itinerary describes it as No. 8 coolest neighborhood in 2026; ranking not independently verified."
+        },
+        {
+          "name": "Kawagoe or Kamakura",
+          "date": "2027-01-02",
+          "cost": null,
+          "notes": "Alternative day trips; destination undecided."
+        },
+        {
+          "name": "Free day — plans TBD",
+          "date": "2027-01-03",
+          "cost": null
+        },
+        {
+          "name": "Flight NH5853 — HND to FRA",
+          "date": "2027-01-04",
+          "cost": null,
+          "time": "12:35",
+          "endTime": "19:00",
+          "flightNumber": "NH5853",
+          "departureAirport": "HND",
+          "arrivalAirport": "FRA",
+          "notes": "12:35 Haneda departure; 19:00 Frankfurt arrival, as supplied. Times are local to each airport; flight details not independently verified."
+        }
+      ],
+      "restaurants": [
+        {
+          "name": "Senbero Sakaba Pinzoro Koenji (せんべろ酒場 ピンゾロ 高円寺店)",
+          "date": "2027-01-01",
+          "cost": null,
+          "openingTime": "17:00",
+          "notes": "Dinner; opens at 17:00 according to itinerary."
+        }
+      ],
+      "notes": "January 1–4 accommodation and map destination still TBD. Tokyo-area plans recorded from the itinerary; no hotel or map pin invented.",
+      "transportToNext": null
+    }
+  ],
+  "sourceNotes": "Enriched from the user's itinerary. Dates are December 2026–January 2027. Costs remain in their original currencies, no exchange-rate conversion. All times and booking details supplied by the user; venue opening dates/hours not independently verified."
+}

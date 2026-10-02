@@ -1,0 +1,84 @@
+Destination illustration prompts
+
+Generated with the built-in image-generation tool. One original illustration per confirmed stop; TBD deliberately has no destination image. These are illustrative scenes, not hotel photographs. Earlier assets remain unchanged.
+
+tokyo-ginza
+Saved asset: assets/anime-tokyo-ginza-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Tokyo Ginza: the recognizable Wako clock-tower building viewed across a broad elegant shopping street at twilight, blue painted sky, glowing amber windows, winter city atmosphere.
+
+hakone
+Saved asset: assets/anime-hakone-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Hakone: Lake Ashi with its famous red lakeside torii gate, calm water, wooded hills and distant Mount Fuji under clear winter morning skies.
+
+tokyo-shinjuku
+Saved asset: assets/anime-tokyo-shinjuku-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Tokyo Shinjuku: a lively neon-lit lane below a dense skyline of tall towers at night, warm lanterns and blue-purple urban light reflected on pavement, abstract non-legible signs.
+
+osaka
+Saved asset: assets/anime-osaka-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Osaka Dotonbori: the canal, Ebisu bridge and lively luminous storefronts, colorful reflections in water at blue hour, iconic bustling canal scenery without readable billboard text.
+
+kyoto
+Saved asset: assets/anime-kyoto-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Kyoto Higashiyama: Yasaka pagoda rising above a traditional sloping stone lane lined with wooden machiya houses, warm lanterns and a luminous peach winter dusk sky.
+
+nara
+Saved asset: assets/anime-nara-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Nara Park: two deer standing in a quiet winter park foreground, the monumental wooden Todai-ji Great Buddha Hall behind them, mossy stone lantern and softly painted trees.
+
+kobe
+Saved asset: assets/anime-kobe-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Kobe waterfront: the recognizable red lattice Kobe Port Tower and white sculptural Maritime Museum roof beside the harbor, distant mountains and a warm sunset reflected in water.
+
+takamatsu
+Saved asset: assets/anime-takamatsu-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Takamatsu Ritsurin Garden: tranquil pond, arching wooden bridge and carefully pruned pine trees against Mount Shiun, cool winter morning light and soft reflections, no spring flowers.
+
+tokyo-ueno
+Saved asset: assets/anime-tokyo-ueno-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Tokyo Ueno: Shinobazu Pond with its red-roofed Bentendo temple, bare winter willow branches and golden winter afternoon sky, a tranquil painted urban park scene.
+
+tokyo-onarimon
+Saved asset: assets/anime-tokyo-onarimon-v2.png
+Use case: stylized-concept.
+Asset type: illustration for a Japan travel website, single landscape image with a 2:1 aspect ratio.
+Style/medium: unmistakably hand-drawn and hand-painted 2D Japanese anime feature-film background art. Gouache and watercolor-like paint, expressive clean ink linework, simplified cel-painted architecture, lush painted skies, visible brush textures and atmospheric layers. It must look like an illustrated frame from an animated film, NOT a photo, NOT photorealistic, NOT 3D rendering. Sophisticated, warm, inviting, playful but not childish. December winter setting, no cherry blossoms.
+Composition: wide scenery with iconic destination subject around the center-left. Upper-right corner may be covered by a small website stamp. Full bleed, no borders, no montage, no captions, no logos, no watermark, no legible signage.
+Scene/backdrop: Tokyo Onarimon: Tokyo Tower glowing orange behind the dark traditional roof of Zojo-ji temple, deep indigo New Year's Eve sky, a serene cinematic illuminated Tokyo landmark scene.
+

@@ -1,0 +1,46 @@
+Simplified destination illustrations — version 3
+
+Generated using the built-in image-generation tool, not the CLI. One shared illustration for all Tokyo stays. The TBD stop has no invented destination.
+
+Tokyo
+Saved image: assets/anime-tokyo-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Tokyo Tower, unmistakable red-and-white tower, rises over a few simplified low city rooftops. Soft blue sky, two or three rounded clouds, quiet peach winter afternoon light. The tower is the clear main subject, its lattice simplified into sparse linework.
+
+Hakone
+Saved image: assets/anime-hakone-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Hakone's red lakeside torii gate at Lake Ashi, calm pale-blue water, layered blue-green hills and Mount Fuji's white peak in the distance. A few soft pine-tree silhouettes. Torii gate and Fuji instantly readable.
+
+Osaka
+Saved image: assets/anime-osaka-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Osaka Castle, recognizable white layered roof tiers with green roof tiles and gold accents, above its stone foundation. A few broad tree shapes and a gentle blue sky. The castle is the clear main landmark.
+
+Kyoto
+Saved image: assets/anime-kyoto-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Kyoto's Fushimi Inari shrine: a short receding row of bright vermilion torii gates on a quiet path, a few broad green forest shapes and warm shafts of painted light. Distinct red gates are the unmistakable subject.
+
+Nara
+Saved image: assets/anime-nara-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Nara: two gently drawn deer in the foreground of Nara Park, with the recognizable broad curved roof of Todai-ji temple behind them. Simple grass shapes, a stone lantern, pale sky. Deer and temple are the main iconic features.
+
+Kobe
+Saved image: assets/anime-kobe-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Kobe's red hourglass-shaped Port Tower beside the harbor, with the simple white curved sculptural Maritime Museum roof nearby. Pale turquoise water and one distant mountain shape, soft pastel sky.
+
+Takamatsu
+Saved image: assets/anime-takamatsu-v3.png
+Use case: stylized-concept. Asset: landscape destination illustration for a small travel website card, 2:1 wide aspect ratio.
+Style: charming Ghibli-inspired hand-painted 2D animation illustration. DELIBERATELY SIMPLE, broad flat gouache color shapes, sparse expressive pencil outlines, softly rounded clouds, limited pastel palette, gentle warm light, slightly whimsical proportions. Like a simple painted establishing shot in a classic Japanese animated film. Clearly illustrated, NOT photographic. Keep detail LOW: no tiny windows, no dense textures, no intricate foliage or architecture, no realistic rendering, no glossy lighting, no dramatic realism. Aim for a readable storybook-like anime painting made with big brush shapes, not an elaborate concept-art vista. One main recognizable landmark and only a few supporting shapes. Winter atmosphere without heavy snow. No text, labels, watermark, border or collage.
+Scene: Takamatsu's Ritsurin Garden: its arched wooden garden bridge over a calm pond, a few sculptural pruned pine trees, and broad Mount Shiun silhouette behind. The bridge and distinctive pines are clear main subjects.
+

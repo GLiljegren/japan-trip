@@ -1,0 +1,234 @@
+{
+  "version": 1,
+  "title": "Japan / transport demo",
+  "currency": "SEK",
+  "travelers": null,
+  "stops": [
+    {
+      "id": "tokyo-ginza",
+      "city": "Tokyo",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-18",
+      "label": "Arrival",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "Hotel Monterey Ginza",
+        "cost": null,
+        "address": "",
+        "url": "https://www.hotelmonterey.co.jp/en/ginza/",
+        "photo": {
+          "src": "assets/hotel-monterey.webp",
+          "alt": "Hotel Monterey Ginza",
+          "source": "https://www.hotelmonterey.co.jp/en/ginza/",
+          "credit": "Hotel Monterey"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/japan-stops.png",
+        "panel": 0,
+        "alt": "Illustrative image: Ginza in Tokyo"
+      },
+      "activities": [],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": "train",
+        "cost": null,
+        "notes": "",
+        "waypoints": [
+          {
+            "longitude": 139.69171,
+            "latitude": 35.6895
+          },
+          {
+            "longitude": 139.5,
+            "latitude": 35.55
+          },
+          {
+            "longitude": 139.25,
+            "latitude": 35.4
+          },
+          {
+            "longitude": 139.1,
+            "latitude": 35.23333
+          }
+        ]
+      }
+    },
+    {
+      "id": "hakone",
+      "city": "Hakone",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "label": "Hot springs",
+      "coordinates": {
+        "longitude": 139.1,
+        "latitude": 35.23333
+      },
+      "hotel": {
+        "name": "Onsen Mizunoto",
+        "cost": null,
+        "address": "",
+        "url": "https://dormy-hotels.com/resort/hotels/mizunoto/",
+        "photo": {
+          "src": "assets/hotel-mizunoto.webp",
+          "alt": "Onsen Mizunoto",
+          "source": "https://dormy-hotels.com/resort/hotels/mizunoto/",
+          "credit": "Dormy Hotels"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/japan-stops.png",
+        "panel": 1,
+        "alt": "Illustrative image: Hakone hot springs"
+      },
+      "activities": [],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": "bus",
+        "cost": null,
+        "notes": "",
+        "waypoints": [
+          {
+            "longitude": 139.1,
+            "latitude": 35.23333
+          },
+          {
+            "longitude": 139.25,
+            "latitude": 35.4
+          },
+          {
+            "longitude": 139.5,
+            "latitude": 35.55
+          },
+          {
+            "longitude": 139.69171,
+            "latitude": 35.6895
+          }
+        ]
+      }
+    },
+    {
+      "id": "tokyo-shinjuku",
+      "city": "Tokyo",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-21",
+      "label": "City lights",
+      "coordinates": {
+        "longitude": 139.69171,
+        "latitude": 35.6895
+      },
+      "hotel": {
+        "name": "APA Kabukicho Tower",
+        "cost": null,
+        "address": "",
+        "url": "https://wifibox-jp.telecomsquare.net/en/location_details.php?locationID=258",
+        "photo": {
+          "src": "assets/hotel-kabukicho.jpg",
+          "alt": "APA Kabukicho Tower",
+          "source": "https://wifibox-jp.telecomsquare.net/en/location_details.php?locationID=258",
+          "credit": "WiFiBOX / Telecom Square"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/japan-stops.png",
+        "panel": 2,
+        "alt": "Illustrative image: Shinjuku in Tokyo"
+      },
+      "activities": [],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": {
+        "mode": "train",
+        "cost": null,
+        "notes": "",
+        "waypoints": [
+          {
+            "longitude": 139.69171,
+            "latitude": 35.6895
+          },
+          {
+            "longitude": 139.5,
+            "latitude": 35.55
+          },
+          {
+            "longitude": 139.25,
+            "latitude": 35.4
+          },
+          {
+            "longitude": 139.1,
+            "latitude": 35.23333
+          },
+          {
+            "longitude": 138.8,
+            "latitude": 35.17
+          },
+          {
+            "longitude": 138.4,
+            "latitude": 35.08
+          },
+          {
+            "longitude": 137.73,
+            "latitude": 34.8
+          },
+          {
+            "longitude": 137.3,
+            "latitude": 34.91
+          },
+          {
+            "longitude": 136.91,
+            "latitude": 35.18
+          },
+          {
+            "longitude": 136.46,
+            "latitude": 35.29
+          },
+          {
+            "longitude": 135.77,
+            "latitude": 35.01
+          },
+          {
+            "longitude": 135.5011,
+            "latitude": 34.6937
+          }
+        ]
+      }
+    },
+    {
+      "id": "osaka",
+      "city": "Osaka",
+      "startDate": "2026-12-21",
+      "endDate": "2026-12-24",
+      "label": "Final stop",
+      "coordinates": {
+        "longitude": 135.5011,
+        "latitude": 34.6937
+      },
+      "hotel": {
+        "name": "APA Osaka Namba Ekimae Tower",
+        "cost": null,
+        "address": "",
+        "url": "https://www.kkday.com/en/hotel/product/301416",
+        "photo": {
+          "src": "assets/hotel-osaka.jpg",
+          "alt": "APA Osaka Namba Ekimae Tower",
+          "source": "https://www.kkday.com/en/hotel/product/301416",
+          "credit": "KKday"
+        }
+      },
+      "sceneImage": {
+        "src": "assets/japan-stops.png",
+        "panel": 3,
+        "alt": "Illustrative image: Osaka at night"
+      },
+      "activities": [],
+      "restaurants": [],
+      "notes": "",
+      "transportToNext": null
+    }
+  ]
+}
